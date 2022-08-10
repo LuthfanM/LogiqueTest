@@ -1,0 +1,1 @@
+export const EP_SEARCH_TERM = "/search"
